@@ -15,4 +15,4 @@ It creates an **animated search bar** that expands and collapses when clicking t
 - **CSS3** → Styling, transitions, shadows, and animation  
 - **JavaScript (Vanilla)** → Toggle functionality and interactivity  
 
-## 📂 Project Structure
+
